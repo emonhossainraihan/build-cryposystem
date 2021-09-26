@@ -7,3 +7,4 @@
 
 [List of random number generators](https://en.wikipedia.org/wiki/List_of_random_number_generators)
 
+[Deterministic chaos game: A new fractal based pseudo-random number generator and its cryptographic application](https://www.researchgate.net/publication/339914692_Deterministic_chaos_game_A_new_fractal_based_pseudo-random_number_generator_and_its_cryptographic_application)
